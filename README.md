@@ -1,3 +1,6 @@
 # carteira_cripto
 
-A new Flutter project.
+## App de carteira de criptomoedas para fins didáticos de layouts com flutter
+### Screenshots
+<img src="https://github.com/NataMarques08/cripto_bank/blob/master/start.png"><img src="https://github.com/NataMarques08/cripto_bank/blob/master/home.png">
+
